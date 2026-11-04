@@ -1,3 +1,5 @@
+Official docker image: https://hub.docker.com/_/caddy
+
 Package available: https://github.com/ludo-c/caddy-ovh/pkgs/container/caddy-ovh
 
 test the build locally with
