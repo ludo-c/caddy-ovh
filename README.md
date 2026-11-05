@@ -1,6 +1,10 @@
+Official repo: https://github.com/caddyserver/caddy
+
 Official docker image: https://hub.docker.com/_/caddy
 
 Package available: https://github.com/ludo-c/caddy-ovh/pkgs/container/caddy-ovh
+
+Update the version and push a new tag to start the CI.
 
 test the build locally with
 
